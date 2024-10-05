@@ -1,0 +1,1 @@
+draw_text_transformed(0,0,"Created by Jonathan Yin & Mateo De La Torre",0.25,0.25,0);
